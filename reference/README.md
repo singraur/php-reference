@@ -1,3 +1,4 @@
+```php
 Error
   ArithmeticError
     DivisionByZeroError
@@ -26,3 +27,5 @@ Exception
     RangeException
     UnderflowException
     UnexpectedValueException
+
+```
